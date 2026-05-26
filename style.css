@@ -2,3 +2,12 @@
      margin: 0;
     padding: 0;
 }
+section{
+    flex-direction:column;
+}
+.cartao{
+    width:260px;
+    height:200px;
+}
+.cartao-frente{ background-color:black;
+    position; absolute;
